@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://slotdepo5k.zotfile.com/sitemap.xml
